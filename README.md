@@ -8,7 +8,7 @@
 ## 요청 흐름
 ### 쪽지 보내기
 
-> 쪽지 보내기 - [.java](htttp)
+> 쪽지 보내기 
 
 
 <p align="center">
@@ -17,21 +17,21 @@
 
 
 ## 인기 강좌 추천 
-> 인기 강의 추천 - [MainRankController.java](https://github.com/newapache/project_outsiderHelper/blob/master/boot/src/controller/main/MainRankController.java)
+> 인기 강의 추천 
 <p align="center">
   <img width="800"  src="/images/main.png">
 </p>
 
 
 ## 커뮤니티 게시판 
-> 익명 커뮤니티 게시판 - [.java](htttp)
+> 익명 커뮤니티 게시판 
 <p align="center">
   <img width="800"  src="/images/anony.png">
 </p>
 
 
 ## 맞춤 강좌|상권 검색 
-> 강의 정보 필터링 - [.java](htttp)
+> 강의 정보 필터링 
 <p align="center">
   <img width="800"  src="/images/addlecture.png">
 </p>
